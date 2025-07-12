@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Erfanili – Machine Learning & Theoretical Physicist
+# Erfanili – Machine Learning & AI
 
 My name is Erfan Esmaeili Fakhabi. I am a machine learning researcher, and I love building decentralized AI models.
 
