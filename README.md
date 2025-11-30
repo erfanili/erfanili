@@ -1,9 +1,4 @@
 ## Hi there 👋
-# Erfanili – Machine Learning & AI
+# Erfan Esmaeili – Machine Learning & AI
 
-My name is Erfan Esmaeili Fakhabi. I am a machine learning researcher, and I love building decentralized AI models.
-
-PhD in Theoretical Physics & General Relativity • Machine Learning Researcher • Python, TensorFlow, PyTorch • Data Science • Algorithms • Optimization • Mathematical Modeling • Purdue University
-Diffusion Models, Large Language Models, Vision Language Models, Convolutional Networks
-
-Explore: [github.com/erfanili](https://github.com/erfanili)
+My name is Erfan Esmaeili. I am a machine learning research engineer and data scientist. I am former physicist and currently focused on forecasting models.
