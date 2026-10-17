@@ -14,7 +14,7 @@ I work on **controllable generative models**: steering diffusion models toward w
 - **Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps**  
   Jeeyung Kim\*, **Erfan Esmaeili\***, Qiang Qiu. *CVPR 2025* (\*equal contribution)  
   Training-free control of cross-attention using the text encoder's self-attention to fix attribute binding and missing objects.  
-  [Paper](https://arxiv.org/abs/2411.15236) · [Project page](https://t-sam-diffusion.github.io/)
+  [Paper](https://arxiv.org/abs/2411.15236) · [Project page](https://t-sam-diffusion.github.io/)· [Code](https://github.com/t-sam-diffusion/code)
 
 - **Steering Diffusion Models via Class-Contrastive Influence for Few-Shot Medical Classification**  
   Jeeyung Kim, **Erfan Esmaeili**, Qiang Qiu. *ECCV 2026*  
