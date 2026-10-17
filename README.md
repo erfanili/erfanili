@@ -5,7 +5,7 @@ I work on **controllable generative models**: steering diffusion models toward w
 
 **Seeking Research Scientist / Research Intern positions for Summer 2027.** U.S. Permanent Resident (no sponsorship required).
 
-[Website](https://erfanili.github.io) · [Google Scholar](https://scholar.google.com/citations?user=7cQiKTIAAAAJ) · [LinkedIn](https://www.linkedin.com/in/erfanili) · [Email](mailto:erfan.esmaeili.f@gmail.com)
+[Website](https://erfanili.dev) · [Google Scholar](https://scholar.google.com/citations?user=7cQiKTIAAAAJ) · [LinkedIn](https://www.linkedin.com/in/erfanili) · [Email](mailto:erfan.esmaeili.f@gmail.com)
 
 ---
 
