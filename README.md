@@ -31,7 +31,7 @@ I work on **RL post-training of generative models**: designing rewards that capt
 |---|---|
 | [qlora-summarization](https://github.com/erfanili/qlora-summarization) | LoRA vs. QLoRA fine-tuning of Llama-3.2-1B on SAMSum with multi-GPU training; ROUGE-1 0.18 → 0.35 over the base model |
 | [inference-optimization-benchmark](https://github.com/erfanili/inference-optimization-benchmark) | Benchmarking LLM serving (vLLM fp16 / AWQ / GPTQ) across batch sizes: latency, throughput, peak memory |
-| [llm-quantization-eval](https://github.com/erfanili/llm-quantization-eval) | Accuracy, latency and memory of fp16 / int8 / int4 LLMs |
+
 
 ---
 
